@@ -75,7 +75,18 @@ Ontario,Nipissing--Timiskaming,35070,Steven Trahan Conservative/Conservateur,Ont
 Election Results Summary
 =========================
 Total Votes per Party:
-	Liberal/Libéral: 139036.00	Conservative/Conservateur: 180652.00	NDP-New Democratic Party/NPD-Nouveau Parti démocratique: 89034.00	People's Party - PPC/Parti populaire - PPC: 35403.00	Green Party/Parti Vert: 23567.00	Bloc Québécois/Bloc Québécois: 6830.00	Parti Rhinocéros Party/Parti Rhinocéros Party: 418.00	Marxist-Leninist/Marxiste-Léniniste: 115.00	Independent/Indépendant(e): 4629.00	Christian Heritage Party/Parti de l'Héritage Chrétien: 712.00	Maverick Party/Maverick Party: 2738.00	VCP/CAC: 147.00
+	Liberal/Libéral: 139036.00
+	Conservative/Conservateur: 180652.00
+	NDP-New Democratic Party/NPD-Nouveau Parti démocratique: 89034.00
+	People's Party - PPC/Parti populaire - PPC: 35403.00
+	Green Party/Parti Vert: 23567.00
+	Bloc Québécois/Bloc Québécois: 6830.00
+	Parti Rhinocéros Party/Parti Rhinocéros Party: 418.00
+	Marxist-Leninist/Marxiste-Léniniste: 115.00
+	Independent/Indépendant(e): 4629.00
+	Christian Heritage Party/Parti de l'Héritage Chrétien: 712.00
+	Maverick Party/Maverick Party: 2738.00	VCP/CAC: 147.00
+
 Method #1 - NPV Winner: Conservative/Conservateur
 
 Method #2 - First-Past-The-Post (FPTP):
