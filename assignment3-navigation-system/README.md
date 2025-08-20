@@ -74,20 +74,26 @@ The program consists of 6 files:
 Place three CSV files in the project directory with any valid name and a header row. There should be one file containing starship information, one containing hyperspace lane information, and another containing star system information. For example:
 
 `starships.csv`
+```
 Name,Faction,AntimatterPerLY,CostPerAntimatterUnit,EnemyFactions
 Endeavour,Earth,3.5,5.7,Empire|Rebels
 Raider,Empire,2.8,10.6,Earth|Neutral
+```
 
 `hyperspacelanes.csv`
+```
 FromSystem,ToSystem,Distance,TollCost
 Sol,AlphaCentauri,5.0,1.0
 AlphaCentauri,Draconis,7.0,2.0
 Sol,Draconis,15.0,0.0
+```
 
 `starsystems.csv`
+```
 Name,Faction,DangerLevel
 Sol,Earth,2
 AlphaCentauri,Neutral,4
+```
 
 ---
 
