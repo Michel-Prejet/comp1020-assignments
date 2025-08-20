@@ -55,14 +55,18 @@ The program consists of 8 files:
 Place two CSV files in the project directory, both of which must contain a header. One file should be called `ridings.csv` and should contain riding information, the other should be called `candidates.csv` and should contain candidate information. For example:
 
 `ridings.csv`
+```
 Province,Electoral District Name,Electoral District Number,Electors
 Newfoundland and Labrador/Terre-Neuve-et-Labrador,Avalon,10001,Ken McDonald ** Liberal/Libéral,N.L./ T.-N.-L.,18608
 Alberta,Calgary Forest Lawn,48006,73174
+```
 
 `candidates.csv`
+```
 Province,Electoral District Name,Electoral District Number,Candidate,Candidate Residence,Votes Obtained
 Nova Scotia/Nouvelle-Écosse,Central Nova/Nova-Centre,12002,Sean Fraser ** Liberal/Libéral,N.S./ N.-É.,18682
 Ontario,Nipissing--Timiskaming,35070,Steven Trahan Conservative/Conservateur,Ont.,15104
+```
 
 ---
 
