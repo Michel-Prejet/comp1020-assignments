@@ -90,22 +90,36 @@ Total Votes per Party:
 Method #1 - NPV Winner: Conservative/Conservateur
 
 Method #2 - First-Past-The-Post (FPTP):
-	Liberal/Libéral: 6.00	Conservative/Conservateur: 4.00	NDP-New Democratic Party/NPD-Nouveau Parti démocratique: 2.00
+	Liberal/Libéral: 6.00
+	Conservative/Conservateur: 4.00
+	NDP-New Democratic Party/NPD-Nouveau Parti démocratique: 2.00
+
 	Winner: Liberal/Libéral
 	Runner-up: Conservative/Conservateur
 
 Method #3 - Proportional Representation (PR):
-	Liberal/Libéral: 3.00	Conservative/Conservateur: 4.00	NDP-New Democratic Party/NPD-Nouveau Parti démocratique: 2.00	People's Party - PPC/Parti populaire - PPC: 1.00	Green Party/Parti Vert: 1.00
+	Liberal/Libéral: 3.00
+	Conservative/Conservateur: 4.00
+	NDP-New Democratic Party/NPD-Nouveau Parti démocratique: 2.00
+	People's Party - PPC/Parti populaire - PPC: 1.00
+	Green Party/Parti Vert: 1.00
+
 	Winner: Conservative/Conservateur
 	Runner-up: Liberal/Libéral
 
 Method #4 - Mixed-Member Proportional (MMP):
-	Liberal/Libéral: 6.00	Conservative/Conservateur: 4.00	NDP-New Democratic Party/NPD-Nouveau Parti démocratique: 2.00
+	Liberal/Libéral: 6.00
+	Conservative/Conservateur: 4.00
+	NDP-New Democratic Party/NPD-Nouveau Parti démocratique: 2.00
+
 	Winner: Liberal/Libéral
 	Runner-up: Conservative/Conservateur
 
 Method #5 - Weighted FPTP (W-FPTP):
-	Liberal/Libéral: 5.00	Conservative/Conservateur: 5.00	NDP-New Democratic Party/NPD-Nouveau Parti démocratique: 2.00
+	Liberal/Libéral: 5.00
+	Conservative/Conservateur: 5.00
+	NDP-New Democratic Party/NPD-Nouveau Parti démocratique: 2.00
+
 	Winner: Liberal/Libéral
 	Runner-up: Conservative/Conservateur
 ```
